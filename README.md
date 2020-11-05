@@ -19,3 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 ## Application Feature
 
 User Profile, User course channel, All courses, Subscribe to a channel, Course completion, Quizzes, Assessment, Push Notification
+
+## Requirements:
+
+Flutter SDK, Dart, Firbase (Auth, Realtime Database)
+
+
+## Build Messaging Application
+
+Communication between owner and subscriber of the channel.
